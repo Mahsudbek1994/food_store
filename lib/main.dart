@@ -9,7 +9,7 @@ void main() {
 class RecipeApp extends StatelessWidget {
   const RecipeApp({Key? key}) : super(key: key);
 
-  // This widget is the root of your application.
+  // This widget is the root of my application.
   // 1
   @override
   Widget build(BuildContext context) {
